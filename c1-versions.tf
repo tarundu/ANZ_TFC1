@@ -1,4 +1,5 @@
 # Terraform Block
+#version 1
 terraform {
   cloud {
     organization = "tarunterraform"
